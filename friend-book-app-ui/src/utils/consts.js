@@ -1,0 +1,8 @@
+export const REGISTRATION_ROUTE = '/registration'
+export const LOGIN_ROUTE = '/login'
+export const MAIN_PAGE_ROUTE = '/mainPage'
+export const ERROR_ROUTE = '/error'
+export const PROFILES_ROUTE = '/profiles'
+export const GROUP_PROFILES_ROUTE = '/groupProfiles'
+export const MY_GROUPS_ROUTE = '/myGroups'
+export const CHANGE_CONTACT_ROUTE = '/changeContact'
